@@ -1,0 +1,11 @@
+# macOS system files
+.DS_Store
+
+# TextEdit autosave trash
+*.sb-*
+
+# Backup files
+*~
+
+# Ignore logs
+*.log
